@@ -3,7 +3,7 @@
 A responsive **Razorpay Landing Page Clone** built using **HTML, CSS & JavaScript** featuring a modern UI, responsive design, smooth animations, interactive modals, pricing section, testimonials, animated counters, and a contact form.
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://yogitkumar-a11y.github.io/Razorpay-clone/
 
 ## 📂 Repository
 https://github.com/YogitKumar-a11y/Razorpay-clone
